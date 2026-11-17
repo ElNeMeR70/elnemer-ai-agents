@@ -1,0 +1,25 @@
+{
+  "name": "@elnemer/ai-agents",
+  "version": "1.0.0",
+  "description": "Sovereign Multi-Agent & RAG Orchestration Framework by Eng. Mahmoud Bek ElNemer",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "node dist/index.js"
+  },
+  "keywords": [
+    "ai",
+    "agents",
+    "swarm",
+    "llm",
+    "elnemer"
+  ],
+  "author": "Eng. Mahmoud Bek ElNemer <tt21913@gmail.com> (https://github.com/ElNeMeR70)",
+  "license": "MIT",
+  "homepage": "https://elnemer-ai.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ElNeMeR70/elnemer-ai-agents.git"
+  }
+}
